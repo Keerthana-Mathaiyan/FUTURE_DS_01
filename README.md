@@ -1,5 +1,5 @@
-# FUTURE_DS_01
-E-Commerce Sales Analytics Dashboard 🚀
+# E-Commerce Sales Analytics Dashboard 🚀
+
 The dashboard provides a comprehensive view of sales performance, highlighting seasonal trends, top products, strong category contributions, and the importance of repeat customers, supporting data-driven business decisions.
 
 <img width="587" height="329" alt="image" src="https://github.com/user-attachments/assets/c0298125-4e49-4401-a693-95d9cadae97f" />
