@@ -102,8 +102,12 @@ ________________________________________
 
 
 📄 License
+
 MIT License - Feel free to use for portfolios, internships, or commercial projects.
+
 👨‍💼 About the Author
+
+
 Built during a real-world data analytics internship. Perfect for showcasing Power BI, DAX, and business analytics skills.
 ________________________________________
 ⭐ Star this repo if it helps your analytics journey!
