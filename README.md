@@ -101,7 +101,9 @@ ________________________________________
 3.	Submit a Pull Request with your insights!
 
 Dataset
-🛒 E-commerce Sales Data (Kaggle)
+
+🛒 E-commerce Sales Data (Kaggle)(https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository)
+
 Contains over 500K online sales transactions from a UK-based retailer.
 
 📄 License
