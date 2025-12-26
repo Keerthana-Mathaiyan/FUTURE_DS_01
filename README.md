@@ -100,6 +100,9 @@ ________________________________________
 2.	Add your Power BI tweaks or Excel analysis
 3.	Submit a Pull Request with your insights!
 
+Dataset
+🛒 E-commerce Sales Data (Kaggle)
+Contains over 500K online sales transactions from a UK-based retailer.
 
 📄 License
 
